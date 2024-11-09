@@ -1,16 +1,30 @@
-# 👋 Hey there, I'm Fithi!  or you can call me Jessiii 😉
-I’m here to challenge the flow, not settle in it. I love exploring new ideas, pushing the boundaries of tech, and shaping my own journey. To me, tech is the ultimate tool for curiosity, a way to keep learning, creating, and growing at my own pace.
+# 👋 Hey there, I'm Fithi! or you can call me ፍትሒ 😁
+
+### Let me start with the motto I walk by...
+> **"Your imagination is your only limitation."**
+<br>
+
+Curiosity and creativity are my compass, and I believe tech is the ultimate playground for turning ideas into reality. I’m here to challenge the flow, not settle in it. I love exploring new ideas, pushing tech boundaries, and shaping my own path forward. To me, tech isn’t just a career; it’s a way to keep learning, creating, and growing at my own pace.
+
+As a Master’s student in Computer Science, I'm always building on my foundation, aspiring to dive deeper into data engineering, machine learning and software. With each project and discovery, I’m working toward making a meaningful impact in myself and the tech world.
+
+<br>
+<br>
 
 ## 💡 A Few Fun Facts
-- ☕ **Tea Connoisseur in the Making**: There’s something about a good cup of tea—it fuels my learning marathons and creative coding sessions.
+- ☕ **Tea Connoisseur in the Making**: Tea isn’t just a drink; it’s my fuel! A good cup of tea makes my learning and coding all the more enjoyable and productive. 
 - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, every beat, and each melody as if it’s speaking to me.  
-- 📖 **Bookworm & Animation Buff**: You might catch me with a book or engrossed in an animated film, somewhere between Python scripts and SQL queries.
+- 📖 **Bookworm & Animation Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
 - 🎹 **Aspiring Chess & Piano Maestro**: One day, I’ll play piano and strategize in chess like a pro. Consider it a work in progress!
+- ⌨️ **Neat Freak**: Yep, I kind of have a thing for organization; clean code, neat spaces, everything in its place.
+<br>
 
 ## 🛠 Tech Stack Love Affair
-- 💻 SQL, PL/SQL, and Python are my tools of choice. They’re powerful, versatile, and, just like tech, filled with endless potential for creativity and problem-solving.
+- 💻 SQL and Python are my tools of choice. They’re powerful, versatile, and, just like tech, filled with endless potential for creativity and problem-solving.
+<br>
 
-# 🛠 Tools and Technologies 
+# 🛠 My Nerdy Badge Wall 👾
+
 ## 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +53,7 @@ I’m here to challenge the flow, not settle in it. I love exploring new ideas, 
 ## ☁️ Cloud Computing Technologies
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=gcp&logoColor=white)
 
 ## 📊 Data Tools
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA6E3A?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -51,18 +65,7 @@ I’m here to challenge the flow, not settle in it. I love exploring new ideas, 
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-## 📌 Motto
-> **"Your imagination is your only limitation."**
-
----
-
-### 😄
-Did you hear about the SQL query that walked into a bar?  
-It couldn’t stop joining tables!  
-
-…and that’s pretty much my approach too: always connecting the dots, finding relationships, and digging into data!
-
----
+<br>
 
 ## 🏆 Challenge Accepted!
 These are some of my current coding goals. I love learning and pushing myself, so consider these as “achievements in progress”:
@@ -72,41 +75,21 @@ These are some of my current coding goals. I love learning and pushing myself, s
 - [ ] Code something that plays my favorite melodies 🎶  
 - [ ] Get my GitHub green square game strong! 💪
 
----
-
-### 👾 Nerdy Interests Badge Wall
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-Lover-red?logo=database)
-![Tea Enthusiast](https://img.shields.io/badge/Tea-Enthusiast-brown)
-![Music Nerd](https://img.shields.io/badge/Music-Sensitive%20Listener-9cf)
-![Chess Aspirant](https://img.shields.io/badge/Chess-In%20Progress-brightgreen)
-
----
-
-### 📈 GitHub Stats
-![Fithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
----
+<br>
 
 ### 🔍 "Easter Egg" Section
 <details>
-  <summary>🧐 Hidden Talents (Click to Reveal)</summary>
+  <summary>🧐 A Little Something Extra (Click to Reveal)</summary>
   
-  - Can identify tea types with a single sip ☕
-  - Almost convinced music has flavors 🎶
-  - Can write a SQL query faster than making a cup of tea
-  - Has a "random fact about anything" button in their brain
+  Did you hear about the SQL query and the machine learning model who started working together? The SQL query kept joining tables, and the model kept finding patterns, until they realized they'd created the perfect relationship… but then someone shouted, "Overfitting alert!"
+
+  Now you know what I am interested in 😉
+  That’s pretty much my approach too: always connecting the dots, finding relationships, and digging into data! 
   
 </details>
 
 ---
+<br>
+<br>
 
-## 🌟 Project Spotlights
-- **Tea-Tracker**: My ongoing side project to log and rate every tea I try (with a Python-powered dashboard, of course!).
-- **Melody-Mapper**: A data project mapping music genres based on mood—think of it as data meets emotions.
-- **CodeQuest**: A fun game-like project with coding challenges to train myself in Python and SQL.
-
----
-
-Thank you for stopping by my profile! Let's grow and have fun together 🚀
-
+Thank you for stopping by my profile! I hope you got to know me a bit better. Let's grow and have fun together 🚀
