@@ -4,7 +4,7 @@
   > **"Your imagination is your only limitation."**
   <br>
   
-  Curiosity and creativity are my compass, and I believe tech is the ultimate playground for turning ideas into reality. I’m here to challenge the flow, not settle in it. I love exploring new ideas, pushing tech boundaries, and shaping my own path forward. To me, tech isn’t just a career; it’s a way to keep learning, creating, and growing at my own pace.
+  Curiosity and creativity are my compass, and I believe tech is the ultimate playground for turning ideas into reality. I love exploring new ideas, pushing tech boundaries, and shaping my own path forward. To me, tech isn’t just a career; it’s a way to keep learning, creating, and growing.
   
   As a Master’s student in Computer Science, I'm always building on my foundation, aspiring to dive deeper into data engineering, machine learning and software. With each project and discovery, I’m working toward making a meaningful impact in myself and the tech world.
   
