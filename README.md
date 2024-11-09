@@ -12,9 +12,9 @@
   <br>
   
   ## 💡 A Few Fun Facts
-  - ☕ **Tea Connoisseur in the Making**: Tea isn’t just a drink; it’s my fuel! A good cup of tea makes my learning and coding all the more enjoyable and productive. 
+  - ☕ **Tea Connoisseur in the Making**: Tea isn’t just a drink; it’s my fuel! A good cup of tea makes my learning and coding enjoyable and productive. 
   - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, every beat, and each melody as if it’s speaking to me.  
-  - 📖 **Bookworm & Animation Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
+  - 📖 **Bookworm & Movies Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
   - 🎹 **Aspiring Chess & Piano Maestro**: One day, I’ll play piano and strategize in chess like a pro. Consider it a work in progress!
   - ⌨️ **Neat Freak**: Yep, I kind of have a thing for organization; clean code, neat spaces, everything in its place.
   <br>
