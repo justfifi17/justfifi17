@@ -1,7 +1,7 @@
   # 👋 Hey there, I'm Fithi!
   
-  ### Let me start with the motto I walk by...
-  > **"Your imagination is your only limitation."**
+  > **"Your limitation—it's only your imagination."**
+                                     **-Bill Gates**
   <br>
   
   Curiosity and creativity are my compass, and I believe tech is the ultimate playground for turning ideas into reality. I love exploring new ideas, pushing tech boundaries, and shaping my own path forward. To me, tech isn’t just a career; it’s a way to keep learning, creating, and growing.
@@ -12,7 +12,7 @@
   <br>
   
   ## 💡 A Few Fun Facts
-  - ☕ **Tea Connoisseur in the Making**: Tea isn’t just a drink; it’s my fuel! A good cup of tea makes my learning and coding enjoyable and productive. 
+  - ☕ **Tea Connoisseur in the Making**: Tea is my fuel and therapy! A good cup of tea makes my day enjoyable and productive. 
   - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, every beat, and each melody as if it’s speaking to me.  
   - 📖 **Bookworm & Movies Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
   - 🎹 **Aspiring Chess & Piano Maestro**: One day, I’ll play piano and strategize in chess like a pro. Consider it a work in progress!
@@ -71,28 +71,14 @@
   These are some of my current coding goals. I love learning and pushing myself, so consider these as “achievements in progress”:
   
   - [ ] Master the art of data using Python and SQL 📊
-  - [ ] Code something that plays my favorite melodies 🎶  
+  - [ ] Strengthen my knowledge and experience in the field   
   - [ ] Get my GitHub green square game strong! 💪
   - [ ] (Half-joking) Deploy an AI model that recognizes tea brands 🍃
 
   *P.S. Don’t underestimate me though. I just might pull off that tea AI model!*
   <br>
-  
-  ### 🔍 Easter Egg
-  <details>
-    <summary>🧐 A Little Something Extra (Click to Reveal)</summary>
-    <br>
-    Did you hear about the SQL query and the machine learning model who started working together? The SQL query kept joining tables, and the model kept finding patterns, until they realized they'd created the perfect relationship… but then someone shouted, "Overfitting alert!"
-  
-    Now you know what I am interested in 😉
-    That’s pretty much my approach too: always connecting the dots, finding relationships, and digging into data! 
-    
-  </details>
-  
-  ---
-  <br>
   <br>
   
-  #### Thank you for stopping by my profile! I hope you got to know me a bit better. Let's grow and have fun together 🚀
+  #### Thank you for stopping by my profile! I hope you got to know me a bit better 😊
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fithi-ghebreamlak)
