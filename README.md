@@ -1,4 +1,4 @@
-  # 👋 Hey there, I'm Fithi! or you can call me ፍትሒ 😁
+  # 👋 Hey there, I'm Fithi!
   
   ### Let me start with the motto I walk by...
   > **"Your imagination is your only limitation."**
@@ -16,7 +16,7 @@
   - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, every beat, and each melody as if it’s speaking to me.  
   - 📖 **Bookworm & Movies Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
   - 🎹 **Aspiring Chess & Piano Maestro**: One day, I’ll play piano and strategize in chess like a pro. Consider it a work in progress!
-  - ⌨️ **Neat Freak**: Yep, I kind of have a thing for organization; clean code, neat spaces, everything in its place.
+  - ⌨️ **Neat Freak**: Clean code, neat spaces, everything in its place.
   <br>
   
   ## 🛠 Tech Stack Love Affair
