@@ -94,3 +94,5 @@
   <br>
   
   #### Thank you for stopping by my profile! I hope you got to know me a bit better. Let's grow and have fun together 🚀
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fithi-ghebreamlak)
