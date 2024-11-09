@@ -70,14 +70,15 @@
   ## 🏆 Challenge Accepted!
   These are some of my current coding goals. I love learning and pushing myself, so consider these as “achievements in progress”:
   
-  - [ ] Master the art of Python one-liners 🐍  
-  - [ ] Deploy an AI model that recognizes tea brands 🍃  
+  - [ ] Master the art of data using Python and SQL 📊
   - [ ] Code something that plays my favorite melodies 🎶  
   - [ ] Get my GitHub green square game strong! 💪
-  
+  - [ ] (Half-joking) Deploy an AI model that recognizes tea brands 🍃
+
+  *P.S. Don’t underestimate me though. I just might pull off that tea AI model!*
   <br>
   
-  ### 🔍 "Easter Egg" Section
+  ### 🔍 Easter Egg
   <details>
     <summary>🧐 A Little Something Extra (Click to Reveal)</summary>
     <br>
