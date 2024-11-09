@@ -20,7 +20,7 @@
   <br>
   
   ## 🛠 Tech Stack Love Affair
-  - 💻 SQL and Python are my tools of choice. They’re powerful, versatile, and, just like tech, filled with endless potential for creativity and problem-solving.
+  - 💻 SQL and Python are my tools of choice. They’re powerful, versatile, and, just like tech, filled with lots of potential for creativity and problem-solving.
   <br>
   
   # 🛠 My Nerdy Badge Wall 👾
