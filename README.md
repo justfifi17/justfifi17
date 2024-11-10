@@ -13,10 +13,10 @@
   
   ## 💡 A Few Fun Facts
   - ☕ **Tea Connoisseur in the Making**: Tea is my fuel and therapy! A good cup of tea makes my day enjoyable and productive. 
-  - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, every beat, and each melody as if it’s speaking to me.  
+  - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, beat, and melody as if it’s speaking to me.  
   - 📖 **Bookworm & Movies Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
   - 🎹 **Aspiring Chess & Piano Maestro**: One day, I’ll play piano and strategize in chess like a pro. Consider it a work in progress!
-  - ⌨️ **Neat Freak**: Clean code, neat spaces, everything in its place.
+  - ⌨️ **Neat Freak**: Yep! That's my thing. Clean code, neat spaces, everything in its place.
   <br>
   
   
@@ -76,6 +76,6 @@
   <br>
   <br>
   
-  #### Thank you for stopping by my profile! I hope you got to know me a bit better 😊
+  #### Thank you for stopping by my profile!
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fithi-ghebreamlak)
