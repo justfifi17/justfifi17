@@ -4,18 +4,14 @@
                                      **-Bill Gates**
   <br>
   
-  Curiosity and creativity are my compass, and I believe tech is the ultimate playground for turning ideas into reality. I love exploring new ideas, pushing tech boundaries, and shaping my own path forward. To me, tech isn’t just a career; it’s a way to keep learning, creating, and growing.
-  
-  As a Master’s student in Computer Science, I'm always building on my foundation, aspiring to dive deeper into data engineering, machine learning and software. With each project and discovery, I’m working toward making a meaningful impact in myself and the tech world.
+ I believe tech is the ultimate playground for turning ideas into reality. I love exploring new ideas, pushing tech boundaries, and shaping my own path forward. As a Master’s student in Computer Science, I'm always building on my foundation, aspiring to dive deeper into data engineering, machine learning and software. With each project and discovery, I’m working toward making a meaningful impact in myself and the tech world.
   
   <br>
   <br>
   
   ## 💡 A Few Fun Facts
-  - ☕ **Tea Connoisseur in the Making**: Tea is my fuel and therapy! A good cup of tea makes my day enjoyable and productive. 
+  - ☕ **Tea Connoisseur in the Making**: Tea is my fuel and therapy! A good cup of tea makes my day productive. 
   - 🎶 **Music Whisperer**: Music isn’t just sound to me; it’s a language, a taste, a sensation. I feel every note, beat, and melody as if it’s speaking to me.  
-  - 📖 **Bookworm & Movies Buff**: If I’m lost in a book or movie, don’t count on me to save you from any “oops” moments, I’m in the zone!
-  - 🎹 **Aspiring Chess & Piano Maestro**: One day, I’ll play piano and strategize in chess like a pro. Consider it a work in progress!
   - ⌨️ **Neat Freak**: Yep! That's my thing. Clean code, neat spaces, everything in its place.
   <br>
   
@@ -65,7 +61,7 @@
   <br>
   
   ## 🏆 Challenge Accepted!
-  These are some of my current coding goals. I love learning and pushing myself, so consider these as “achievements in progress”:
+  These are some of my current coding goals. So consider these as “achievements in progress”:
   
   - [ ] Master the art of data using Python and SQL 📊
   - [ ] Strengthen my knowledge and experience in the field   
